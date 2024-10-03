@@ -1,0 +1,2 @@
+Odin Recipes Webpage for Project: Recipes
+This project is my attempt at The Odin Projects Project:Recipes in the Foundations Course. This will show off a couple food recipes I found from the internet as well as my first stab at creating a website using HTML.
