@@ -1,0 +1,23 @@
+body {
+    background-color: aqua;
+}
+
+.uno {
+    text-align: center;
+    font-family:'Courier New', Courier, monospace
+}
+.dos {
+    text-align: center;
+    font-style: oblique;
+}
+.ichi {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace
+}
+.ni {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+.san {
+    color: brown;
+}
