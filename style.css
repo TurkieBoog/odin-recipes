@@ -10,6 +10,28 @@ body {
     text-align: center;
     font-style: oblique;
 }
+.un {
+    display: inline-block;
+    margin: 10px;
+
+    background-color: darkblue;
+    padding: 10px;
+}
+.deux{
+    display: inline;
+    margin: 0px;
+    background-color: antiquewhite;
+    padding: 10px;
+}
+.trois {
+    display: block;
+    border: 1px;
+    background-color: red;
+    max-width: fit-content;
+    margin:auto;
+    padding: 10px;
+}
+
 .ichi {
     text-align: center;
     font-family: 'Courier New', Courier, monospace
@@ -20,4 +42,19 @@ body {
 }
 .san {
     color: brown;
+}
+button {
+    display: block;
+    margin: auto;
+    background-color: red;
+    margin-top:500px;
+
+    
+}
+.un a {
+    color: whitesmoke
+}
+button a {
+    color: white;
+    font-weight: bold;
 }
